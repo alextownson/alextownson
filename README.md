@@ -12,6 +12,6 @@ I began by designing ephemera for an independent bookshop that I worked at. This
 
 ### Currently learning:
 
-1. I am working through [Codecademy's Front End Engineer Path](https://join.codecademy.com/learn/paths/front-end-engineer-career-path/) to help fill in/make salient any gaps in my knowledge.
+1. I am working through [Codecademy's Full-Stack Engineer Path](https://join.codecademy.com/learn/paths/full-stack-engineer-career-path-b/) to help fill in/make salient any gaps in my knowledge.
 
 2. I am also working through [Three.js Journey](https://threejs-journey.com/). 3D development is an area that I find incredibly exciting.
