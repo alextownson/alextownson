@@ -6,9 +6,7 @@ I began by designing ephemera for an independent bookshop that I worked at. This
 
 ### Currently working on:
 
-1. I am working on a project called [Reality Labs](https://github.com/alextownson/reality-labs). It tells a brief history of the company Reality Labs. The purpose of this project is to allow me to implement what I am learning in my Three.js course within something self-directed. 
-
-2. I am working on a resource for cyclists called [Bike Parts](https://github.com/alextownson/bike-parts). This is a web and mobile application that teaches cyclists the names of bike parts as well as basic bike mechanics. I've created this project in hopes to lower the barrier to entry in bicycle mechanics as it has traditionally excluded marginalized folks. 
+I am working on a resource for cyclists called [Bike Parts](https://github.com/alextownson/bike-parts). This is a web and mobile application that teaches cyclists the names of bike parts as well as basic bike mechanics. I've created this project in hopes to lower the barrier to entry in bicycle mechanics as it has traditionally excluded marginalized folks. 
 
 ### Currently learning:
 
