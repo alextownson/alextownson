@@ -1,8 +1,8 @@
 ## Hello! My name is Alex (he/they).
 
-I am a designer and developer based in Toronto. 
+I design and develop digital interfaces. While studying graphic design at OCAD University, I became incredibly fascinated with the intersection of design and technology. This led me to focus my studies on UI/UX design and to supplement my degree by learning front-end development.
 
-I began by designing ephemera for an independent bookshop that I worked at. This led me to pursue a graphic design degree at OCAD University which I completed in January 2023. While in school I honed in on two skills; motion design and front-end development. The latter is an area I am most passionate about and I have supplemented my degree with countless hours of programming.
+When I'm not working, I enjoy making music, riding bikes, and hanging out with my two cats.
 
 ### Currently working on:
 
