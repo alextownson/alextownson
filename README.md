@@ -10,7 +10,7 @@ I am working on a resource for cyclists called [Bike Parts](https://github.com/a
 
 ### Currently learning:
 
-1. I am working through [Codecademy's Full-Stack Engineer Path](https://join.codecademy.com/learn/paths/full-stack-engineer-career-path-b/) as an extension of the Front-End Engineer certification I completed.
+1. I am working through [Codecademy's Full-Stack Engineer Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) as an extension of the Front-End Engineer certification I completed.
 
 2. I am also working through [Three.js Journey](https://threejs-journey.com/). 3D development is an area that I find incredibly exciting.
 
