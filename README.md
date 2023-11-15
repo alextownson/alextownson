@@ -13,7 +13,10 @@ I am working on a resource for cyclists called [Bike Parts](https://github.com/a
 1. I am working through [Codecademy's Full-Stack Engineer Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) as an extension of the Front-End Engineer certification I completed.
 
 2. I am also working through [Three.js Journey](https://threejs-journey.com/). 3D development is an area that I find incredibly exciting.
-
+   
 ### Frequently Used:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextownson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![skill icons](https://skillicons.dev/icons?i=ae,ai,pr,ps,figma,vscode,html,css,js,react,webpack,git,github)](https://skillicons.dev)
