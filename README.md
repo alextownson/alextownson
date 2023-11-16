@@ -1,6 +1,6 @@
 ## Hello! My name is Alex (he/they).
 
-I design and develop digital interfaces. While studying graphic design at OCAD University, I became incredibly fascinated with the intersection of design and technology. This led me to focus my studies on UI/UX design and to supplement my degree by learning front-end development.
+I design and develop user interfaces. While studying graphic design at OCAD University, I became incredibly fascinated with the intersection of design and technology. This led me to focus my studies on UI/UX design and to supplement my degree by learning front-end development.
 
 When I'm not working, I enjoy making music, riding bikes, and hanging out with my two cats.
 
