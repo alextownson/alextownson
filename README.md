@@ -1,4 +1,4 @@
-## Hello! My name is Alex (he/they).
+## Hello! My name is Alex.
 
 I design and develop user interfaces. While studying graphic design at OCAD University, I became incredibly fascinated with the intersection of design and technology. This led me to focus my studies on UI/UX design and to supplement my degree by learning front-end development.
 
