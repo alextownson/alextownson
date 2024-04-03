@@ -1,4 +1,4 @@
-## Hello! My name is Alex.
+## Hello, my name is Alexander!
 
 While studying graphic design at OCAD University, I became incredibly fascinated with the intersection of design and technology. This led me to focus my studies on UX design and to supplement my degree by learning front-end development. Upon graduating with distinction, I’ve continued my education through self-directed learning and experimentation, as well as through working remotely with clients as a designer and developer. I have worked on both personal and professional projects through all stages of development – planning, research, designing, testing, development, and deployment.
 
