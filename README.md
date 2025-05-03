@@ -9,4 +9,4 @@ When I'm not working, I enjoy making music, riding bikes, and hanging out with m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextownson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![skill icons](https://skillicons.dev/icons?i=ae,ai,pr,ps,figma,vscode,html,css,js,react,webpack,git,github)](https://skillicons.dev)
+[![skill icons](https://skillicons.dev/icons?i=ai,pr,ps,figma,html,css,js)](https://skillicons.dev)
